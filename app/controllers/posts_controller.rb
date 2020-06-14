@@ -4,6 +4,6 @@ class PostsController < ApplicationController
   end
 
   def new
-    redirect_to ''
+    
   end
 end
